@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2d212e49ea0e31459bcf7e871955b33, type: 3}
+  m_Name: MaleBaseState
+  m_EditorClassIdentifier: 
+  Atk: 5
+  Def: 5
+  HP: 100
+  DrC: 200
+  AbilityList:
+  - level: 1
+    abilityName: Normal Attack
+    ability: {fileID: 3137622648526190054, guid: e66cf4c699c63a549ba2485ae7568958,
+      type: 3}
+  - level: 2
+    abilityName: Rocket Fire
+    ability: {fileID: 1671494244175146022, guid: 94b2f8d6e1c2cd8489cfb46b1eae2934,
+      type: 3}
+  - level: 3
+    abilityName: Bomb
+    ability: {fileID: 8554408908056135942, guid: 7436419b2d2b1104da2143d5a10ee5ae,
+      type: 3}
+  - level: 4
+    abilityName: Buff Damage
+    ability: {fileID: 2259504375044322008, guid: c5e49f6b696962444a9495dea1f651aa,
+      type: 3}
+  - level: 5
+    abilityName: Gravity Hole
+    ability: {fileID: 8854645750124561711, guid: 0e1ed82414ce67b419d2ba2baeec65c7,
+      type: 3}

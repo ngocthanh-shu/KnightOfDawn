@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 772a957669f7d5541a84342e9e719d9f, type: 3}
+  m_Name: EpicEnemy
+  m_EditorClassIdentifier: 
+  EnemyGrowthData:
+  - Level: 1
+    Atk: 88
+    Def: 61
+    HP: 78
+    Exp: 15
+  - Level: 2
+    Atk: 97
+    Def: 77
+    HP: 105
+    Exp: 38
+  - Level: 3
+    Atk: 150
+    Def: 141
+    HP: 125
+    Exp: 61
+  - Level: 4
+    Atk: 164
+    Def: 156
+    HP: 242
+    Exp: 106
+  - Level: 5
+    Atk: 192
+    Def: 156
+    HP: 287
+    Exp: 159
+  - Level: 6
+    Atk: 231
+    Def: 169
+    HP: 317
+    Exp: 176
+  - Level: 7
+    Atk: 280
+    Def: 199
+    HP: 419
+    Exp: 225
+  - Level: 8
+    Atk: 329
+    Def: 222
+    HP: 531
+    Exp: 264
+  - Level: 9
+    Atk: 405
+    Def: 278
+    HP: 707
+    Exp: 360

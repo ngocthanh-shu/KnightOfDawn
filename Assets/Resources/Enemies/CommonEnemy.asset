@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 772a957669f7d5541a84342e9e719d9f, type: 3}
+  m_Name: CommonEnemy
+  m_EditorClassIdentifier: 
+  EnemyGrowthData:
+  - Level: 1
+    Atk: 5
+    Def: 5
+    HP: 5
+    Exp: 5
+  - Level: 2
+    Atk: 10
+    Def: 7
+    HP: 7
+    Exp: 6
+  - Level: 3
+    Atk: 10
+    Def: 10
+    HP: 10
+    Exp: 7
+  - Level: 4
+    Atk: 15
+    Def: 12
+    HP: 15
+    Exp: 8
+  - Level: 5
+    Atk: 15
+    Def: 14
+    HP: 15
+    Exp: 9
+  - Level: 6
+    Atk: 20
+    Def: 15
+    HP: 17
+    Exp: 10
+  - Level: 7
+    Atk: 20
+    Def: 16
+    HP: 20
+    Exp: 15
+  - Level: 8
+    Atk: 30
+    Def: 18
+    HP: 23
+    Exp: 20
+  - Level: 9
+    Atk: 30
+    Def: 20
+    HP: 30
+    Exp: 25

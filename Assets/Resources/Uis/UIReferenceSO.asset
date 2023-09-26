@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e18e6dc61327ce4988fbe7c095baac4, type: 3}
+  m_Name: UIReferenceSO
+  m_EditorClassIdentifier: 
+  listUIReferences:
+  - key: LoadingUI
+    prefab: {fileID: 8502354970227559594, guid: ce972f79cacb2e849838a96995a38656,
+      type: 3}
+    isSingle: 1
+  - key: MainMenuUI
+    prefab: {fileID: 7760041029568735306, guid: 68ed3f87f33e7af4b90dcf50412e2797,
+      type: 3}
+    isSingle: 1
+  - key: EnemyHealthBar
+    prefab: {fileID: 1560347541788172492, guid: 0033b5bd99cfd824e871142c1faecf3d,
+      type: 3}
+    isSingle: 0
+  - key: PopupDamageUI
+    prefab: {fileID: 3936781373579206494, guid: ed7f1481a96a7a4419e987cf39d4db65,
+      type: 3}
+    isSingle: 0
+  - key: GameplayUI
+    prefab: {fileID: 6013428496128785891, guid: 2ac0f7cdc7bfb8d47a2baec805de8e5a,
+      type: 3}
+    isSingle: 1
+  - key: UnlockSkillUI
+    prefab: {fileID: 5451893018147244887, guid: d64404e3adea2fb458fb7ebf5f10f2ea,
+      type: 3}
+    isSingle: 0
