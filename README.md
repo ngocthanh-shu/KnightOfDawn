@@ -1,1 +1,3 @@
-# TDT-Team-2
+- Tên Dự Án: Knight Of Dawn
+- Thể loại: Survival, Endless
+- Giới thiệu: Đây là dự án cuối cùng cho đợt thực tập tại Topebox.
